@@ -1,0 +1,17 @@
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\bin\Debug\net5.0\MyBook.Services.deps.json
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\bin\Debug\net5.0\MyBook.Services.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\bin\Debug\net5.0\ref\MyBook.Services.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\bin\Debug\net5.0\MyBook.Services.pdb
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\obj\Debug\net5.0\MyBook.Services.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\obj\Debug\net5.0\MyBook.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\obj\Debug\net5.0\MyBook.Services.AssemblyInfoInputs.cache
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\obj\Debug\net5.0\MyBook.Services.AssemblyInfo.cs
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\obj\Debug\net5.0\MyBook.Services.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\obj\Debug\net5.0\MyBook.Services.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\obj\Debug\net5.0\ref\MyBook.Services.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\obj\Debug\net5.0\MyBook.Services.pdb
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\bin\Debug\net5.0\Books.DataAccess.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\bin\Debug\net5.0\FavoriteBook.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\bin\Debug\net5.0\Books.DataAccess.pdb
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\bin\Debug\net5.0\FavoriteBook.pdb
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\MyBook.Services\obj\Debug\net5.0\MyBook.Services.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\bin\Debug\net5.0\Books.DataAccess.deps.json
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\bin\Debug\net5.0\Books.DataAccess.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\bin\Debug\net5.0\ref\Books.DataAccess.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\bin\Debug\net5.0\Books.DataAccess.pdb
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\bin\Debug\net5.0\FavoriteBook.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\bin\Debug\net5.0\FavoriteBook.pdb
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.AssemblyInfo.cs
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.csproj.CopyComplete
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\obj\Debug\net5.0\ref\Books.DataAccess.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.pdb

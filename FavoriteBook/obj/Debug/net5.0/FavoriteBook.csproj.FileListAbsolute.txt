@@ -1,0 +1,12 @@
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\FavoriteBook\bin\Debug\net5.0\FavoriteBook.deps.json
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\FavoriteBook\bin\Debug\net5.0\FavoriteBook.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\FavoriteBook\bin\Debug\net5.0\ref\FavoriteBook.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\FavoriteBook\bin\Debug\net5.0\FavoriteBook.pdb
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\FavoriteBook\obj\Debug\net5.0\FavoriteBook.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\FavoriteBook\obj\Debug\net5.0\FavoriteBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\FavoriteBook\obj\Debug\net5.0\FavoriteBook.AssemblyInfoInputs.cache
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\FavoriteBook\obj\Debug\net5.0\FavoriteBook.AssemblyInfo.cs
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\FavoriteBook\obj\Debug\net5.0\FavoriteBook.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\FavoriteBook\obj\Debug\net5.0\FavoriteBook.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\FavoriteBook\obj\Debug\net5.0\ref\FavoriteBook.dll
+C:\Users\Marius\Desktop\KITM\Back-end\C#\FavoriteBooksList\FavoriteBook\obj\Debug\net5.0\FavoriteBook.pdb
